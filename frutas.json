@@ -1,0 +1,16 @@
+{
+  "frutas": {
+    "apple": "manzana",
+    "banana": "plátano",
+    "orange": "naranja",
+    "grape": "uva",
+    "watermelon": "sandía",
+    "strawberry": "fresa",
+    "blueberry": "arándano",
+    "raspberry": "frambuesa",
+    "mango": "mango",
+    "pineapple": "piña",
+    "peach": "durazno",
+    "coco":"coco"
+  }
+}
